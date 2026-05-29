@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NetflixClone</string>
+    <string name="menu_series">Series</string>
+    <string name="menu_filmes">Movies</string>
+    <string name="menu_minha_lista">My movies</string>
+    <string name="tags_filme_capa">Action • Spy • Drama</string>
+    <string name="btn_assistir">Watch</string>
+    <string name="btn_detalhes">Details</string>
+    <string name="secao_lancamento">Launches</string>
+</resources>
